@@ -56,7 +56,6 @@ To visualize and control the right arm using MoveIt 2 in RViz:
 ros2 launch g1_arm demo.launch.py
 ```
 
-- RViz will open with the right arm model loaded.
 - Use the interactive markers to plan and execute trajectories.
 
 ---
