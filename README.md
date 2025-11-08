@@ -89,8 +89,8 @@ To view the planned motion trajectory published by MoveIt:
 ros2 topic echo /display_planned_path
 ```
 
-This topic outputs the **planned joint trajectories**.
----
+This topic outputs the **planned joint trajectories.
+
 
 ## Troubleshooting
 
