@@ -140,7 +140,6 @@ g1_ws/
     │   ├── CMakeLists.txt
     │   ├── meshes
     │   ├── package.xml
-    │   ├── __pycache__
     │   └── urdf
     ├── README.md
     └── xyz_coordinate.py 
