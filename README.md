@@ -69,6 +69,7 @@ python3 xyz_coordinate.py
 ```
 
 When executed, the script will **prompt you to enter the target 3D coordinates (x, y, z)**  eg(0.2, 0, 0.2) for the robot’s end-effector.
+
 After providing the values, MoveIt will plan and execute a trajectory to move the arm to the specified position.
 
 >  You can modify the script to include orientation inputs or predefined poses if needed.
