@@ -22,7 +22,7 @@ Before proceeding, ensure you have:
 
 - **ROS 2 Humble** ([Installation Guide](https://docs.ros.org/en/humble/Installation.html))
 - **MoveIt 2** ([MoveIt 2 Installation Guide](https://moveit.ros.org/install/))
-- `git` and `colcon` build tools
+
 
 ---
 
